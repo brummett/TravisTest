@@ -1,16 +1,16 @@
 package TravisTest;
 
-use Carp;
-use Data::Dumper;
-use Data::Transform::ExplicitMetadata;
-use Devel::Chitin;
-use Devel::Callsite;
+#use Carp;
+#use Data::Dumper;
+#use Data::Transform::ExplicitMetadata;
+#use Devel::Chitin;
+#use Devel::Callsite;
 
-#use Digest::MD5;
-#use Exception::Class;
-#use Exporter;
-#use HTTP::Server::PSGI;
-#use IO::File;
+use Digest::MD5;
+use Exception::Class;
+use Exporter;
+use HTTP::Server::PSGI;
+use IO::File;
 
 #use IO::Socket::INET;
 #use JSON;

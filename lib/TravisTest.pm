@@ -9,7 +9,7 @@ package TravisTest;
 #use Digest::MD5;
 #use Exception::Class;
 use Exporter;
-use HTTP::Server::PSGI;
+#use HTTP::Server::PSGI;
 use IO::File;
 
 #use IO::Socket::INET;

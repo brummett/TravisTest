@@ -7,7 +7,7 @@ package TravisTest;
 #use Devel::Callsite;
 
 use Digest::MD5;
-use Exception::Class;
+#use Exception::Class;
 use Exporter;
 use HTTP::Server::PSGI;
 use IO::File;

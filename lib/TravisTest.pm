@@ -6,7 +6,7 @@ package TravisTest;
 #use Devel::Chitin;
 #use Devel::Callsite;
 
-use Digest::MD5;
+#use Digest::MD5;
 #use Exception::Class;
 use Exporter;
 use HTTP::Server::PSGI;

@@ -7,9 +7,9 @@ package TravisTest;
 #use Devel::Callsite;
 
 #use Digest::MD5;
-use Exception::Class;
+#use Exception::Class;   # only the one fails
 #use Exporter;
-#use HTTP::Server::PSGI;
+use HTTP::Server::PSGI;
 #use IO::File;
 
 #use IO::Socket::INET;
